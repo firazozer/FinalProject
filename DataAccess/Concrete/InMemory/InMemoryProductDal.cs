@@ -59,7 +59,7 @@ namespace DataAccess.Concrete.InMemory
             //Istedıgın kadar koşul ekliyebilirsin.
         }
 
-        public List<ProductDetailDto> GetProductDetailDtos()
+        public List<ProductDetailDto> GetProductDetails()
         {
             throw new NotImplementedException();
         }
